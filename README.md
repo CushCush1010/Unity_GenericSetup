@@ -1,2 +1,7 @@
-# Unity_GenericSetup
-This is my general setup used for my various unity projects. Currently on version Unity 6000.3.3f1 and under the template of Universal 3D.
+# General Template/Setup for (Universal 3D) Unity Project
+
+Welcome, this project is my template for all unity projects, and useful baseline packages for game creation. This is currently on version **6000.3.3f1** and uses **Universal 3D** as the template. Here are the current features inside the template:
+* Folder Setup
+* Cinemachine
+* A README.md Template for projects (TBD)
+* more to come...
